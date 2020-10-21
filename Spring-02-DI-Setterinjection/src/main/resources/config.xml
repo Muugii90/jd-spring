@@ -5,7 +5,7 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="java" class="com.cybertek.services.Java">
-        <constructor-arg ref="officeHours"/>
+        <property name="officeHours" ref="officeHours"/>
     </bean>
     <bean id="selenium" class="com.cybertek.services.Selenium"></bean>
 
