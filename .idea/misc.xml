@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring-04-BeanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-01-SpringContainer/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-Setterinjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/../Sprint-05-JavaAnnotations-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring-05-JavaAnnotations-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-06-/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-07-SpringBoot-loC-Di-Lab/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK" />
+</project>
