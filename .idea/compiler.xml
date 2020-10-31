@@ -8,13 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-05-JavaAnnotations-Autowired" />
-        <module name="Sprint-05-JavaAnnotations-Component" />
         <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-06-JavaCode-Configuration" />
         <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" />
         <module name="Spring-04-BeanLifeCycle" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
+        <module name="Spring-05-JavaAnnotations-Component" />
         <module name="Spring-05-Value" />
         <module name="Spring-02-DI-Setterinjection" />
         <module name="Spring-02-DI-ConstructorInjection" />
@@ -29,13 +29,13 @@
       <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.8" />
       <module name="Spring-04-BeanLifeCycle" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Autowired" target="1.8" />
+      <module name="Spring-05-JavaAnnotations-Component" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Qualifier" target="1.8" />
       <module name="Spring-05-Value" target="1.8" />
       <module name="Spring-06-JavaCode-Configuration" target="1.8" />
       <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" target="1.8" />
       <module name="Spring-07-SpringBoot-Demo" target="11" />
       <module name="Spring-07-SpringBoot-loC-Di-Lab" target="11" />
-      <module name="Sprint-05-JavaAnnotations-Component" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

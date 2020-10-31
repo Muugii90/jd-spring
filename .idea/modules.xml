@@ -8,13 +8,13 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-04-BeanLifeCycle/Spring-04-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/Spring-04-BeanLifeCycle/Spring-04-BeanLifeCycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/Spring-05-JavaAnnotations-Autowired.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/Spring-05-JavaAnnotations-Autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Spring-05-JavaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Spring-05-JavaAnnotations-Component.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring-05-/Spring-05-Value.iml" filepath="$PROJECT_DIR$/Spring-05-/Spring-05-Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" filepath="$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaCode-Configuration/Spring-06-JavaCode-Configuration.iml" filepath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/Spring-06-JavaCode-Configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-06-JavaCode-PostConstruct-PreDestroy.iml" filepath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-06-JavaCode-PostConstruct-PreDestroy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-loC-Di-Lab/Spring-07-SpringBoot-loC-Di-Lab.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-loC-Di-Lab/Spring-07-SpringBoot-loC-Di-Lab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Sprint-05-JavaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/Sprint-05-JavaAnnotations-Component.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jd-spring.iml" filepath="$PROJECT_DIR$/.idea/jd-spring.iml" />
     </modules>
   </component>
