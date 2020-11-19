@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-06-JavaCode-PostConstruct-PreDestroy.iml" filepath="$PROJECT_DIR$/Spring-06-JavaCode-PostConstruct-PreDestroy/Spring-06-JavaCode-PostConstruct-PreDestroy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-loC-Di-Lab/Spring-07-SpringBoot-loC-Di-Lab.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-loC-Di-Lab/Spring-07-SpringBoot-loC-Di-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Controller/Spring-08-SpringBoot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-MVC-Controller/Spring-08-SpringBoot-MVC-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-08-Spring-MVC-Model-View1(Thyme)/SpringBoot-08-Spring-MVC-Model-View1(Thyme).iml" filepath="$PROJECT_DIR$/SpringBoot-08-Spring-MVC-Model-View1(Thyme)/SpringBoot-08-Spring-MVC-Model-View1(Thyme).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jd-spring.iml" filepath="$PROJECT_DIR$/.idea/jd-spring.iml" />
     </modules>
   </component>
